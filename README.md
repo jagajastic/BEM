@@ -1,6 +1,6 @@
 # BEM
 
-Block Element Modifier(BEM) is a naming convention that makes your css styles easy to remember and maintian
+Block Element Modifier(BEM) is a naming convention that makes your css styles easy to remember and maintain
 
 ## Example
 
