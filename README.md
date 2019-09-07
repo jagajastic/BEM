@@ -15,7 +15,7 @@ Block Element Modifier(BEM) is a naming convention that makes your css styles ea
 
 ## Explanation
 
-Navigation represent the Block nav bar which a block,
+Navigation represent the Block nav bar which is a block,
 
 List represent the ul(unorder list)
 
